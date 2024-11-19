@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 using TareaFinal_LuciaCosta.Logica;
 using System.Runtime.InteropServices;
+using TareaFinal_LuciaCosta.Aplicacion;
 
 namespace TareaFinal_LuciaCosta
 {
@@ -28,6 +29,17 @@ namespace TareaFinal_LuciaCosta
 
             if (conexion.usuario(usuario, contrasenia))
             {
+                // Crear una instancia del formulario Menu1
+                Menu1 menu = new Menu1();
+
+                // Manejar el evento FormClosed para cerrar la aplicación
+                menu.FormClosed += (s, args) => this.Close();
+
+                // Mostrar el formulario Menu1
+                menu.Show();
+
+                // Ocultar el formulario de inicio de sesión
+                this.Hide();
             }
             else
             {

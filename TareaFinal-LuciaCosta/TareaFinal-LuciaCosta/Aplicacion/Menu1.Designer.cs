@@ -1,6 +1,6 @@
 ﻿namespace TareaFinal_LuciaCosta.Aplicacion
 {
-    partial class Menu
+    partial class Menu1
     {
         /// <summary>
         /// Required designer variable.
@@ -37,13 +37,13 @@
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.PaleVioletRed;
+            this.panel1.BackColor = System.Drawing.Color.Pink;
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.btnHam);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1047, 41);
+            this.panel1.Size = new System.Drawing.Size(1019, 41);
             this.panel1.TabIndex = 1;
             // 
             // label1
@@ -53,28 +53,29 @@
             this.label1.ForeColor = System.Drawing.Color.Transparent;
             this.label1.Location = new System.Drawing.Point(40, 10);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(60, 23);
+            this.label1.Size = new System.Drawing.Size(56, 23);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Menú ";
+            this.label1.Text = "Menú";
             // 
             // btnHam
             // 
+            this.btnHam.Image = global::TareaFinal_LuciaCosta.Properties.Resources.Menu_Barras;
             this.btnHam.Location = new System.Drawing.Point(9, 9);
             this.btnHam.Name = "btnHam";
             this.btnHam.Size = new System.Drawing.Size(27, 26);
             this.btnHam.TabIndex = 3;
             this.btnHam.TabStop = false;
             // 
-            // Menu
+            // Menu1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(96F, 96F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
-            this.ClientSize = new System.Drawing.Size(1047, 658);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(1019, 628);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "Menu";
-            this.Text = "Menu";
-            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.Name = "Menu1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Menu1";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btnHam)).EndInit();

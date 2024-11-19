@@ -14,4 +14,4 @@ C:\Users\Lab5\Documents\GitHub\Proyecto-Noviembre-2024\TareaFinal-LuciaCosta\Tar
 C:\Users\Lab5\Documents\GitHub\Proyecto-Noviembre-2024\TareaFinal-LuciaCosta\TareaFinal-LuciaCosta\obj\Debug\TareaFin.395A0862.Up2Date
 C:\Users\Lab5\Documents\GitHub\Proyecto-Noviembre-2024\TareaFinal-LuciaCosta\TareaFinal-LuciaCosta\obj\Debug\TareaFinal-LuciaCosta.exe
 C:\Users\Lab5\Documents\GitHub\Proyecto-Noviembre-2024\TareaFinal-LuciaCosta\TareaFinal-LuciaCosta\obj\Debug\TareaFinal-LuciaCosta.pdb
-C:\Users\Lab5\Documents\GitHub\Proyecto-Noviembre-2024\TareaFinal-LuciaCosta\TareaFinal-LuciaCosta\obj\Debug\TareaFinal_LuciaCosta.Aplicacion.Menu.resources
+C:\Users\Lab5\Documents\GitHub\Proyecto-Noviembre-2024\TareaFinal-LuciaCosta\TareaFinal-LuciaCosta\obj\Debug\TareaFinal_LuciaCosta.Aplicacion.Menu1.resources

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace TareaFinal_LuciaCosta.Aplicacion
 {
-    public partial class Menu : Form
+    public partial class Menu1 : Form
     {
-        public Menu()
+        public Menu1()
         {
             InitializeComponent();
         }
