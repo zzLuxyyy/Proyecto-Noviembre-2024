@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lab5\\Documents\\GitHub\\Proyecto-Noviembre-2024\\TareaFinal-LuciaCosta\\",
+  "WorkspaceRootPath": "C:\\Users\\lucia\\OneDrive\\Documentos\\GitHub\\Proyecto-Noviembre-2024\\TareaFinal-LuciaCosta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7CBE57C3-4E30-4B20-887B-C8299C548C92}|TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta.csproj|C:\\Users\\Lab5\\Documents\\GitHub\\Proyecto-Noviembre-2024\\TareaFinal-LuciaCosta\\tareafinal-luciacosta\\aplicacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7CBE57C3-4E30-4B20-887B-C8299C548C92}|TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta.csproj|solutionrelative:tareafinal-luciacosta\\aplicacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CBE57C3-4E30-4B20-887B-C8299C548C92}|TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta.csproj|c:\\users\\lab5\\documents\\github\\proyecto-noviembre-2024\\tareafinal-luciacosta\\tareafinal-luciacosta\\aplicacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7CBE57C3-4E30-4B20-887B-C8299C548C92}|TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta.csproj|c:\\users\\lucia\\onedrive\\documentos\\github\\proyecto-noviembre-2024\\tareafinal-luciacosta\\tareafinal-luciacosta\\aplicacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CBE57C3-4E30-4B20-887B-C8299C548C92}|TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta.csproj|solutionrelative:tareafinal-luciacosta\\aplicacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CBE57C3-4E30-4B20-887B-C8299C548C92}|TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta.csproj|c:\\users\\lab5\\documents\\github\\proyecto-noviembre-2024\\tareafinal-luciacosta\\tareafinal-luciacosta\\aplicacion\\menu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7CBE57C3-4E30-4B20-887B-C8299C548C92}|TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta.csproj|C:\\Users\\lucia\\OneDrive\\Documentos\\GitHub\\Proyecto-Noviembre-2024\\TareaFinal-LuciaCosta\\tareafinal-luciacosta\\aplicacion\\menu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBE57C3-4E30-4B20-887B-C8299C548C92}|TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta.csproj|solutionrelative:tareafinal-luciacosta\\aplicacion\\menu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBE57C3-4E30-4B20-887B-C8299C548C92}|TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta.csproj|c:\\users\\lucia\\onedrive\\documentos\\github\\proyecto-noviembre-2024\\tareafinal-luciacosta\\tareafinal-luciacosta\\logica\\usuariocontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBE57C3-4E30-4B20-887B-C8299C548C92}|TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta.csproj|solutionrelative:tareafinal-luciacosta\\logica\\usuariocontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBE57C3-4E30-4B20-887B-C8299C548C92}|TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta.csproj|c:\\users\\lucia\\onedrive\\documentos\\github\\proyecto-noviembre-2024\\tareafinal-luciacosta\\tareafinal-luciacosta\\aplicacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CBE57C3-4E30-4B20-887B-C8299C548C92}|TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta.csproj|solutionrelative:tareafinal-luciacosta\\aplicacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBE57C3-4E30-4B20-887B-C8299C548C92}|TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta.csproj|C:\\Users\\lucia\\OneDrive\\Documentos\\GitHub\\Proyecto-Noviembre-2024\\TareaFinal-LuciaCosta\\tareafinal-luciacosta\\aplicacion\\menu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7CBE57C3-4E30-4B20-887B-C8299C548C92}|TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta.csproj|solutionrelative:tareafinal-luciacosta\\aplicacion\\menu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,44 +30,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Menu1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Lab5\\Documents\\GitHub\\Proyecto-Noviembre-2024\\TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta\\Aplicacion\\Menu1.cs",
-              "RelativeDocumentMoniker": "TareaFinal-LuciaCosta\\Aplicacion\\Menu1.cs",
-              "ToolTip": "C:\\Users\\Lab5\\Documents\\GitHub\\Proyecto-Noviembre-2024\\TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta\\Aplicacion\\Menu1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TareaFinal-LuciaCosta\\Aplicacion\\Menu1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T17:36:00.918Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\Lab5\\Documents\\GitHub\\Proyecto-Noviembre-2024\\TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta\\Aplicacion\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\OneDrive\\Documentos\\GitHub\\Proyecto-Noviembre-2024\\TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta\\Aplicacion\\Login.cs",
               "RelativeDocumentMoniker": "TareaFinal-LuciaCosta\\Aplicacion\\Login.cs",
-              "ToolTip": "C:\\Users\\Lab5\\Documents\\GitHub\\Proyecto-Noviembre-2024\\TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta\\Aplicacion\\Login.cs",
+              "ToolTip": "C:\\Users\\lucia\\OneDrive\\Documentos\\GitHub\\Proyecto-Noviembre-2024\\TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta\\Aplicacion\\Login.cs",
               "RelativeToolTip": "TareaFinal-LuciaCosta\\Aplicacion\\Login.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAjwCkAAAAcAAAAAAAAAA==",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T16:32:34.59Z",
+              "WhenOpened": "2024-11-22T17:27:14.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Login.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Lab5\\Documents\\GitHub\\Proyecto-Noviembre-2024\\TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta\\Aplicacion\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\OneDrive\\Documentos\\GitHub\\Proyecto-Noviembre-2024\\TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta\\Aplicacion\\Login.cs",
               "RelativeDocumentMoniker": "TareaFinal-LuciaCosta\\Aplicacion\\Login.cs",
-              "ToolTip": "C:\\Users\\Lab5\\Documents\\GitHub\\Proyecto-Noviembre-2024\\TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta\\Aplicacion\\Login.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\lucia\\OneDrive\\Documentos\\GitHub\\Proyecto-Noviembre-2024\\TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta\\Aplicacion\\Login.cs [Dise\u00F1o]",
               "RelativeToolTip": "TareaFinal-LuciaCosta\\Aplicacion\\Login.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T16:04:22.983Z",
+              "WhenOpened": "2024-11-22T17:18:47.746Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lucia\\OneDrive\\Documentos\\GitHub\\Proyecto-Noviembre-2024\\TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta\\Aplicacion\\Menu1.cs",
+              "RelativeDocumentMoniker": "TareaFinal-LuciaCosta\\Aplicacion\\Menu1.cs",
+              "ToolTip": "C:\\Users\\lucia\\OneDrive\\Documentos\\GitHub\\Proyecto-Noviembre-2024\\TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta\\Aplicacion\\Menu1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TareaFinal-LuciaCosta\\Aplicacion\\Menu1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:27:32.198Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioControlador.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\OneDrive\\Documentos\\GitHub\\Proyecto-Noviembre-2024\\TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta\\Logica\\UsuarioControlador.cs",
+              "RelativeDocumentMoniker": "TareaFinal-LuciaCosta\\Logica\\UsuarioControlador.cs",
+              "ToolTip": "C:\\Users\\lucia\\OneDrive\\Documentos\\GitHub\\Proyecto-Noviembre-2024\\TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta\\Logica\\UsuarioControlador.cs",
+              "RelativeToolTip": "TareaFinal-LuciaCosta\\Logica\\UsuarioControlador.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAwwBQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:32:21.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu1.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\OneDrive\\Documentos\\GitHub\\Proyecto-Noviembre-2024\\TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta\\Aplicacion\\Menu1.cs",
+              "RelativeDocumentMoniker": "TareaFinal-LuciaCosta\\Aplicacion\\Menu1.cs",
+              "ToolTip": "C:\\Users\\lucia\\OneDrive\\Documentos\\GitHub\\Proyecto-Noviembre-2024\\TareaFinal-LuciaCosta\\TareaFinal-LuciaCosta\\Aplicacion\\Menu1.cs",
+              "RelativeToolTip": "TareaFinal-LuciaCosta\\Aplicacion\\Menu1.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAswCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:02:03.978Z",
+              "EditorCaption": ""
             }
           ]
         }

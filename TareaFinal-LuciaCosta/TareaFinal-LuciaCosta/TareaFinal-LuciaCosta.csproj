@@ -63,8 +63,15 @@
     </Compile>
     <Compile Include="Logica\ConexionDB.cs" />
     <Compile Include="Logica\Usuario.cs" />
+    <Compile Include="Logica\UsuarioControlador.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <None Include="Resources\Res.Designer.cs" />
+    <Compile Include="Res\Res.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Res.resx</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Aplicacion\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
@@ -81,6 +88,12 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="Resources\Res.resx" />
+    <EmbeddedResource Include="Res\Res.en-US.resx" />
+    <EmbeddedResource Include="Res\Res.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Res.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

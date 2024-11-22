@@ -15,3 +15,17 @@ C:\Users\Lab5\Documents\GitHub\Proyecto-Noviembre-2024\TareaFinal-LuciaCosta\Tar
 C:\Users\Lab5\Documents\GitHub\Proyecto-Noviembre-2024\TareaFinal-LuciaCosta\TareaFinal-LuciaCosta\obj\Debug\TareaFinal-LuciaCosta.exe
 C:\Users\Lab5\Documents\GitHub\Proyecto-Noviembre-2024\TareaFinal-LuciaCosta\TareaFinal-LuciaCosta\obj\Debug\TareaFinal-LuciaCosta.pdb
 C:\Users\Lab5\Documents\GitHub\Proyecto-Noviembre-2024\TareaFinal-LuciaCosta\TareaFinal-LuciaCosta\obj\Debug\TareaFinal_LuciaCosta.Aplicacion.Menu1.resources
+C:\Users\lucia\OneDrive\Documentos\GitHub\Proyecto-Noviembre-2024\TareaFinal-LuciaCosta\TareaFinal-LuciaCosta\obj\Debug\TareaFinal_LuciaCosta.Aplicacion.Menu1.resources
+C:\Users\lucia\OneDrive\Documentos\GitHub\Proyecto-Noviembre-2024\TareaFinal-LuciaCosta\TareaFinal-LuciaCosta\obj\Debug\TareaFinal-LuciaCosta.exe
+C:\Users\lucia\OneDrive\Documentos\GitHub\Proyecto-Noviembre-2024\TareaFinal-LuciaCosta\TareaFinal-LuciaCosta\obj\Debug\TareaFinal-LuciaCosta.pdb
+C:\Users\lucia\OneDrive\Documentos\GitHub\Proyecto-Noviembre-2024\TareaFinal-LuciaCosta\TareaFinal-LuciaCosta\bin\Debug\TareaFinal-LuciaCosta.exe.config
+C:\Users\lucia\OneDrive\Documentos\GitHub\Proyecto-Noviembre-2024\TareaFinal-LuciaCosta\TareaFinal-LuciaCosta\bin\Debug\TareaFinal-LuciaCosta.exe
+C:\Users\lucia\OneDrive\Documentos\GitHub\Proyecto-Noviembre-2024\TareaFinal-LuciaCosta\TareaFinal-LuciaCosta\bin\Debug\TareaFinal-LuciaCosta.pdb
+C:\Users\lucia\OneDrive\Documentos\GitHub\Proyecto-Noviembre-2024\TareaFinal-LuciaCosta\TareaFinal-LuciaCosta\bin\Debug\mysql.data.dll
+C:\Users\lucia\OneDrive\Documentos\GitHub\Proyecto-Noviembre-2024\TareaFinal-LuciaCosta\TareaFinal-LuciaCosta\bin\Debug\Google.Protobuf.dll
+C:\Users\lucia\OneDrive\Documentos\GitHub\Proyecto-Noviembre-2024\TareaFinal-LuciaCosta\TareaFinal-LuciaCosta\bin\Debug\mysql.data.xml
+C:\Users\lucia\OneDrive\Documentos\GitHub\Proyecto-Noviembre-2024\TareaFinal-LuciaCosta\TareaFinal-LuciaCosta\obj\Debug\TareaFin.395A0862.Up2Date
+C:\Users\lucia\OneDrive\Documentos\GitHub\Proyecto-Noviembre-2024\TareaFinal-LuciaCosta\TareaFinal-LuciaCosta\bin\Debug\en-US\TareaFinal-LuciaCosta.resources.dll
+C:\Users\lucia\OneDrive\Documentos\GitHub\Proyecto-Noviembre-2024\TareaFinal-LuciaCosta\TareaFinal-LuciaCosta\obj\Debug\TareaFinal_LuciaCosta.Res.Res.resources
+C:\Users\lucia\OneDrive\Documentos\GitHub\Proyecto-Noviembre-2024\TareaFinal-LuciaCosta\TareaFinal-LuciaCosta\obj\Debug\TareaFinal_LuciaCosta.Res.Res.en-US.resources
+C:\Users\lucia\OneDrive\Documentos\GitHub\Proyecto-Noviembre-2024\TareaFinal-LuciaCosta\TareaFinal-LuciaCosta\obj\Debug\en-US\TareaFinal-LuciaCosta.resources.dll
